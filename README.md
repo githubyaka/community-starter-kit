@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* Today is the day
+* I like github
+* I am the new you
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* There are no ubers avaible.
+* So I will take a pickme to go home.
 
 ## Getting started
 
